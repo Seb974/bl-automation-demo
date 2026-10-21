@@ -1,11 +1,10 @@
-# BL Automation — Démonstration publique
+# BL Automation — démonstration PWA publique de CREAZOT
 
-Application statique, générée depuis le projet privé CREAZOT. **Données 100 % fictives.**
+Démonstration statique. **Données fictives exclusivement** : sans reconnaissance OCR cloud, sans Supabase Auth, sans connexion ERP, ni clés et secrets.
 
-Ce dépôt public ne contient **ni source serveur, ni secret, ni moteur OCR**, ni document réel.
+Installation sur iPhone : ouvrir https://seb974.github.io/bl-automation-demo/ dans Safari, Partager, Sur l'écran d'accueil.
+Cette URL affiche une PWA mobile (navigation inférieure, fiches BL, import caméra/fichiers en simulation) ; aucune pièce jointe ni information saisie n'est envoyée à un serveur.
 
-Fonctionnalités visibles : tableau de bord, recherche de BL fictifs, simulation d'import, revue illustrative, brouillons de démonstration.
+Code source du moteur OCR et fonctions serveur dans le dépôt privé, jamais dans cette démo publique.
 
-Le traitement OCR réel et la base Supabase ne sont pas disponibles sur cette URL publique.
-
-> Ne déposez pas de documents réels : ce site est uniquement une démonstration.
+**Ne pas importer de vrais documents clients dans cette démonstration.**
